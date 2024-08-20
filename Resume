@@ -1,0 +1,331 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[document]{ragged2e}
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} 
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{hyperref}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=black
+}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+
+\name{Wilfried Youmbi Fotso} % Your name
+\address{\bf University of Western Ontario, London, Canada} % Your address
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary address (optional)
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CONTACT INFORMATION}
+\medskip
+
+\begin{minipage}{0.5\linewidth}   
+\begin{tabular}{@{}l@{}}
+{\bf Phone number:} +1 226-239-6096 \\
+{\bf Email:} wyoumbif@uwo.ca \\
+{\bf Citizenship:} Citizen of Cameroon \\
+{\bf Residence:} Permanent Resident in Canada \\
+%{\bf Website: } \href{https://www.anastasiia-suvorova.com/}{www.anastasiia-suvorova.com}
+\end{tabular} 
+\end{minipage} 
+\hfill 
+\begin{minipage}{0.5\linewidth}
+\begin{tabular}{@{}l@{}}
+{\bf Address:} \\
+Department of Economics \\
+4012 Social Science Centre \\
+University of Western Ontario \\
+London, Ontario \\
+\end{tabular} 
+\end{minipage}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+\medskip
+
+University of Western Ontario, Canada, \textit{Ph.D. Economics} \hfill \textit{Expected, Summer 2025} \\
+\textbf{Thesis title:} \textit{Essays on Revealed Preference Under Nontransitive Preferences} \\
+\textbf{Committee:} \textit{Victor Aguiar (advisor), Gregory Pavlov, Nail Kashaev, Roy Allen} \\
+\medskip
+
+ University of Ottawa, Canada, \textit{MA in Economics}, \hfill \textit{May 2019} \\
+\medskip
+
+ African School of Economics, Benin, \textit{MA in Mathematics, Economics, and Statistics}, \hfill \textit{May 2016}\\
+\medskip
+
+ University of Yaounde 1, Cameroon, \textit{MA in Mathematics (without thesis)}, \hfill \textit{May 2014} \\
+ \medskip
+
+University of Yaounde 1,  Cameroon, \textit{BS in Mathematics and Computer Science},  \hfill \textit{January 2012} \\
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Interests}
+\medskip
+
+Decision Theory\\
+Behavioral Economics \\
+Mechanism and Information Design \\
+Development Economics and African Political Economy \\
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORKING PAPERS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Working Papers}
+\medskip
+
+Nonparametric Analysis of Random Preference Model Robust to Nontransitive Preferences \textit{(Job Market Paper)} \\
+\medskip
+
+A Rationalization of the Pairwise Homothetic Axiom of Revealed Preference \\
+\medskip
+
+Nonparametric Analysis of Income Compensation Functions Robust to Nontransitive Preferences\\
+\medskip
+
+Paving the Way: The Role of Local Infrastructure in Fostering Local Government Trust in Cameroon, with Daniel K. Banini, submitted\\
+\medskip
+
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	WORK IN PROGRESS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Work in Progress}
+\medskip
+
+A Robust Theory of Revealed Price Preference \\
+\medskip
+
+Contracting a Bayesian Persuader, with Kun Zhu and Xun Chen\\
+\medskip
+
+Stochastic Homothetic Revealed Preferences with Measurement Error and Nontransitive Preferences \medskip
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PRESENTATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Conferences, Presentations, Workshop}
+\medskip
+
+
+Canadian Econometric Study Group Annual Meeting, York University, Canada \hfill \textit{October 2024}\\
+\medskip
+
+Canadian Economic Association Annual Meeting, Toronto, Canada \hfill \textit{June 2024}\\
+\medskip
+
+Statistics Seminar, Department of Mathematics, University of Missippi,  \hfill \textit{September 2023} \\
+\medskip
+
+Optimization-Conscious Econometrics, Conference and Summer School, University of Chicago,  \hfill \textit{June 2023}\\
+\medskip
+
+Annual Canadian Economic Association Conference, Winnipeg, Canada \hfill \textit{June 2023}\\
+\medskip
+
+Association for the Study of Religion, Economics, and Culture, Conference, Havard University  \hfill \textit{Mars 2023}\\ 
+\medskip
+
+Health, History, Demography and Development, Conference at the University of Michigan,  \textit{March 2020}\\
+\medskip
+
+Contemporary African Political Economy Research Seminar, New York University in the Department of Political Science,  \textit{May 2019}
+
+
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH AND WORK EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research and Work Experience}
+\medskip
+
+
+Teaching Assistant, department of Economics, University of Western Ontario: 
+Principle of Microeconomics, Principle of Macroeconomics, Economic Development, Intermediate Microeconomics Theory, Econometrics. \hfill \textit{Fall 2019-Winter 2023}\\
+\medskip
+
+
+Research Assistant for Gregory Pavlov, University of Western Ontario \hfill \textit{May 2022-August 2022; May 2023-August 2023; Fall 2023} \\
+\medskip
+
+%Description of your research assistant role.
+Research Assistant for Victor Aguiar, University of Western Ontario \hfill  \textit{May 2021-August 2021} \\
+\medskip
+
+Data Analyst (Graduate Internship) at Statistics Canada, Ottawa, \hfill \textit{October 2018-May 2019}\\
+\medskip
+
+Research Assistant for Roland Pongou, University of Ottawa, Ottawa \hfill  \textit{May September 2017-2019}\\
+\medskip
+
+Research Assistant for Professor Landry Signe: Sub-Regional Institute for Statistics and Applied Economics, Yaoundé, Cameroon, \hfill \textit{September 2016-July 2017}.
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TEACHING EXPERIENCE SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Teaching Experience}
+\medskip
+
+Primary Instructor: Advanced Microeconomics, Master of Mathematics, Economics, and Statistics, African School of Economics, Benin \hfill \textit{Summer, 2024} \\
+\medskip
+
+Primary Instructor: Intermediate Microeconomic Theory 1 (2150A), University of Western Ontario, Canada \hfill \textit{Winter, 2024} \\
+\medskip
+
+Primary Instructor: Microeconomics Reading Group, Master of Mathematics, Economics, and Statistics, African School of Economics, Benin \hfill \textit{Fall, 2023}\\
+\medskip
+
+Primary Instructor: Intermediate Microeconomic Theory 1 (2150A), University of Western Ontario, Canada \hfill \textit{Summer, 2023} \\
+\medskip
+
+Primary Instructor: Advanced Microeconomics, Master of Mathematics, Economics, and Statistics, African School of Economics, Benin \hfill \textit{Summer, 2023} \\
+
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	FELLOWSHIPS AND AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Fellowships and Awards}
+\medskip
+
+Richard J. Schmeelk Canada Fellowship, Scholarship Partners Canada,  \hfill \textit{2024-2025}\\
+\medskip
+
+Productivity Grant Recipient, department of Economics, University of Western Ontario \hfill \textit{2023} \\
+\medskip
+
+Writing Paper Grants, from the World Bank Group/Afro barometer Research Initiative, \hfill \textit{December 2021}\\
+\medskip
+
+Graduate Teaching Assistantship, department of Economics, University of Western Ontario \hfill \textit{2019-2023} \\
+\medskip
+
+Special Scholarship from the Vice-Dean Office, department of Economics, University of Ottawa, \hfill \textit{2017-2019} \\
+\medskip
+
+African Center of Excellence Scholarship granted by the World Bank, African School of Economics (ASE) in Benin, \hfill 2014-2016. \\
+\medskip
+
+Paul BIYA Award of Excellence granted by the University of Yaoundé 1 in Cameroon \hfill \textit{2012-2014}
+\medskip
+
+Graduate Fellowship, University of Western Ontario \hfill \textit{2022, 2023} \\
+\medskip
+
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Languages and Skills}
+\medskip
+
+Multilingual (French, English, Ghomala): French-native, English-fluent, Ghomala-fluent.\\
+\medskip
+Softwares: Microsoft Office, Stata, Matlab, R, SAS, PowerBI, Latex, QGIS, Python.
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	REFERENCES SECTION
+%----------------------------------------------------------------------------------------
+
+
+\begin{rSection}{References}
+\medskip
+
+\begin{table}[hp!]
+  \begin{minipage}[c]{0.5\linewidth}
+    \textbf{Victor Aguiar (advisor)} \\
+    Department of Economics \\
+    Simon Fraser University \\
+    %Phone number: 519-661-2111 Ext. 85359 \\
+    Email: vaguiarl@sfu.ca
+  \end{minipage}
+  \hfill
+  \begin{minipage}[c]{0.5\linewidth}
+    \textbf{Gregory Pavlov} \\
+    Department of Economics \\
+    University of Western Ontario \\
+    Phone number: 519-661-2111 ext. 86786\\
+    Email: gpavlov@uwo.ca
+  \end{minipage} 
+  
+  \vspace{10mm} % Adds space between the two rows
+  
+  \begin{minipage}[c]{0.5\linewidth}
+    \textbf{Nail Kashaev} \\
+    Department of Economics \\
+    University of Western Ontario \\
+    Phone number: 519-661-2111 Ext. 87346 \\
+    Email: nkashaev@uwo.ca
+  \end{minipage}
+    \hfill
+  \begin{minipage}[c]{0.5\linewidth}
+    \textbf{Roy Allen} \\
+    Department of Economics \\
+    University of Western Ontario \\
+    Phone number: 519-661-2111 Ext. 85227 \\
+    Email: rallen46@uwo.ca
+  \end{minipage}
+\end{table}
+\end{rSection}
+
+
+\end{document}
